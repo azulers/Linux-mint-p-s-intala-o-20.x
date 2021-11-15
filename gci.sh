@@ -171,7 +171,7 @@
 
       sudo rm -rf /home/temp;
 
-      echo "bom pessoal meu primeiro shell script foi esse, ainda estou aprendendo a "dominar" o terminal caso queiram me dar dicas sobre o terminal podem me enviar um e-mail para azuleteam@gmail.com
+      echo "bom pessoal meu primeiro shell script foi esse, ainda estou aprendendo a "dominar" o terminal caso queiram me dar dicas sobre o terminal podem me enviar um e-mail para azuleteam@gmail.com"
 
       echo "terminal será fechado em 10 segundos ..."
 
